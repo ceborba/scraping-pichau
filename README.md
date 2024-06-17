@@ -1,4 +1,4 @@
-# Web Scrapping Pichau
+# Web Scraping Pichau
 
 Este projeto é uma ferramenta de extração de dados da Pichau, usando web scraping para obter informações organizadas do site. Destinada a desenvolvedores, analistas de dados e pesquisadores, essa ferramenta facilita a coleta de dados valiosos da web, incluindo análises de preços antigos e novos na plataforma da Pichau.
 
